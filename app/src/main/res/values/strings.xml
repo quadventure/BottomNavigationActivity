@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Enamorada del Mediterráneo</string>
+    <string name="title_home">Enamorados</string>
+    <string name="title_dashboard">Playas</string>
+    <string name="title_notifications">Acciones</string>
+</resources>
